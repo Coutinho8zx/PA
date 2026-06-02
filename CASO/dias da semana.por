@@ -8,28 +8,28 @@ programa {
 
   escolha(dia){
     caso 1:
-      escreva("domingo")
+      escreva("Domingo")
       pare
     caso 2:
-      escreva("segunda-feira")
+      escreva("Segunda-Feira")
       pare
     caso 3:
-      escreva("terça-feira")
+      escreva("Terça-Feira")
       pare
     caso 4:
-      escreva("quarta-feira")
+      escreva("Quarta-Feira")
       pare
     caso 5:
-      escreva("quinta-feira")
+      escreva("Quinta-Feira")
       pare
     caso 6:
-      escreva("sexta-feira")
+      escreva("Sexta-Feira")
       pare
     caso 7:
-      escreva("sábado")
+      escreva("Sábado")
       pare
     caso contrario:
-      escreva("número inválido")
+      escreva("Número Inválido!")
       pare
   }
     
