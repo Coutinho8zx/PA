@@ -32,6 +32,9 @@ programa {
      caso 5:
       escreva("seu nome é: ",   nome , " Esta cursando: logistica" )
       pare
+    caso contrario :
+      escreva("curso fora de opção ou numero invalido")
+
  
   }
 
